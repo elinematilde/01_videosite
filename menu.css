@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  padding: 0rem;
+  border: 0rem;
+}
+
+/* MENU */
+header {
+  display: flex;
+  background-color: #d0cfcf;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 2%;
+}
+
+.logo img {
+  width: 19%;
+  height: 100%;
+  padding-left: 4%;
+}
+
+n .menu a:hover {
+  color: #58333c;
+}
